@@ -4,3 +4,10 @@ a for left
 s for down
 w for up
 d for right
+
+These are the Rules of the game 
+
+1) you will have 3 lives
+2) there are 5 levels
+3) speed will increase gradually in each level
+4) you can also play multiplayer game
