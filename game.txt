@@ -1,0 +1,6 @@
+These are the game control
+
+a for left
+s for down
+w for up
+d for right
